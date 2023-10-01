@@ -10,13 +10,13 @@ section {
     border-radius: 20px;
     background-color: #fff;
     width: 360px;
-    margin: 75px auto;
+    margin: 20px auto;
     padding-bottom: 80px;
 }
 
 .menu-button {
     display: inline-block;
-    margin: 56px 302px 15px 28px;
+    margin: 56px 0px 15px 28px;
 }
 
 h1 {
@@ -46,6 +46,10 @@ input {
     display: inline-block;
     margin: 0px 20px 0px 0px;                                               
 }   
+.menu-item-last {
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+}
 h5 {
    color: #C4C4C4;
    font-size: 16px;
