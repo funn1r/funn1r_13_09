@@ -47,7 +47,7 @@ input {
     display: inline-block;
     margin: 0px 20px 0px 0px;                                               
 }   
-.menu-item-last {
+.menu-item:last-child {
     display: inline-block;
     margin: 0px 0px 0px 0px;
 }
